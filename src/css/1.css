@@ -1,0 +1,13 @@
+li{
+    list-style: none;
+}
+::placeholder{
+    color: red;
+}
+#box{
+    width: 550px;
+    height: 650px;
+    background-color: aquamarine;
+    background: url('../image/新垣结衣.jpg');
+    background-size: 100%;
+}
